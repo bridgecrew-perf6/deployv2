@@ -15,8 +15,6 @@ jobs:
         USER: ${{ secrets.DOCKERHUB_USERNAME }}
         PASS: ${{ secrets.DOCKERHUB_TOKEN }}
       run: docker login -u "$USER" -p "$PASS"
-    - name: env setup
-      run: test -f .env || cp .env.sample .env
     - name: build images
       run: docker-compose build --no-cache
     - name: docker push
