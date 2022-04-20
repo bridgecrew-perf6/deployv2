@@ -2,6 +2,7 @@ version: "3.4"
 services:
     backend.recycle:
         build: .
+        dockerfile: Dockerfile
         ports:
             - "8000:80"
         depends_on:
