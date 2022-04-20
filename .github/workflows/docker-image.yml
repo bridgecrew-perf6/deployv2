@@ -1,0 +1,29 @@
+name: docker-compose-actions-workflow
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: docker login
+      env:
+        USER: ${{ secrets.DOCKERHUB_USERNAME }}
+        PASS: ${{ secrets.DOCKERHUB_TOKEN }}
+      run: docker login -u "$USER" -p "$PASS"
+    - name: env setup
+      run: test -f .env || cp .env.sample .env
+    - name: build images
+      run: docker-compose build --no-cache
+    - name: docker push
+      run: docker-compose push
+    - name: Build and push
+      id: docker_build
+      uses: docker/build-push-action@v2
+      with:
+        push: true
+        tags: mohamedabotir/recycleit
