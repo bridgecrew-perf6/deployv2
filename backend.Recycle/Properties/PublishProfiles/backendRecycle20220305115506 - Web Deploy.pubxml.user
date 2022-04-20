@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJyxSk6qcJEqAHwW7Pw2AigAAAAACAAAAAAAQZgAAAAEAACAAAAAMtD8SnZZ8/uHFwjAyr6xv2OzR3JvAIG9Snc8VIn6xeAAAAAAOgAAAAAIAACAAAAB7A682nENdJpY16V5GKrjst9Alu6m2/IE1Ll1xZNFe9YAAAACOB9W+lZxL8IEWI1+Ro+XGjF1x4AOR+rzdFaQnr/llmAaJyAG0ZDeZgLocrcF6JfyKLjZOgapWdcj2d7RMK3QaDaWb4qreuc+YyT+lkfW1Y2yQWO50IkLuE3OWHK7Lj5uFqkSg1tRYtXlhZV6hN6M5iG+6+9Uwnt4fMYzPQ5z+yUAAAADU/EYRxjEFcCgEv07Ij9z3jsz4/MJE+hR1L6IgcWL6QZPRVVGc+97umoh6s44770ECvX6agnWgElL2Xa99WbgW</EncryptedPassword>
+    <History>False|2022-04-19T21:43:56.5063882Z;True|2022-03-24T19:04:11.5853888+02:00;True|2022-03-24T18:42:45.0648572+02:00;True|2022-03-24T18:39:23.9347474+02:00;False|2022-03-24T18:36:27.0177338+02:00;False|2022-03-24T18:34:49.3164508+02:00;True|2022-03-24T18:24:39.2686704+02:00;True|2022-03-24T16:27:07.4777478+02:00;True|2022-03-24T15:57:48.9547382+02:00;False|2022-03-24T15:54:27.3690272+02:00;False|2022-03-24T15:53:21.3485358+02:00;True|2022-03-24T15:11:55.9391129+02:00;True|2022-03-24T15:06:00.4537065+02:00;True|2022-03-23T17:30:24.3486565+02:00;True|2022-03-23T17:28:35.1162704+02:00;True|2022-03-23T04:13:50.8063380+02:00;False|2022-03-23T03:46:58.4217358+02:00;True|2022-03-05T19:05:48.5169650+02:00;False|2022-03-05T18:26:30.6515377+02:00;False|2022-03-05T18:11:15.3234532+02:00;False|2022-03-05T17:59:15.5357537+02:00;True|2022-03-05T17:43:33.2967382+02:00;True|2022-03-05T17:30:48.7713939+02:00;False|2022-03-05T17:29:44.3399372+02:00;False|2022-03-05T17:28:26.0262100+02:00;True|2022-03-05T17:14:15.5360129+02:00;True|2022-03-05T17:00:55.4507027+02:00;False|2022-03-05T16:59:29.6147023+02:00;False|2022-03-05T16:57:52.3707027+02:00;True|2022-03-05T16:49:08.0990737+02:00;False|2022-03-05T16:47:06.7610756+02:00;False|2022-03-05T16:45:40.5160739+02:00;True|2022-03-05T16:38:48.7340045+02:00;True|2022-03-05T16:34:17.6591852+02:00;True|2022-03-05T16:28:31.9571164+02:00;False|2022-03-05T16:27:17.2651420+02:00;False|2022-03-05T16:26:03.4459972+02:00;True|2022-03-05T16:11:03.0447672+02:00;False|2022-03-05T16:09:34.0654429+02:00;True|2022-03-05T15:50:50.0428774+02:00;True|2022-03-05T15:43:15.5023812+02:00;False|2022-03-05T15:40:54.9703277+02:00;True|2022-03-05T15:28:54.1295761+02:00;False|2022-03-05T15:25:23.7005131+02:00;True|2022-03-05T14:51:29.6848264+02:00;False|2022-03-05T13:52:06.4354351+02:00;True|2022-03-05T13:20:00.7676224+02:00;True|2022-03-05T12:59:01.7471129+02:00;True|2022-03-05T12:25:21.5240146+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:dbrecycle.database.windows.net,1433%3bInitial Catalog=backend.Recycle_db%3bUser Id=mohamedabotir%40dbrecycle%3bPassword=Kampo%40123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="backend.Recycle.Data.REGISTERDbContext">
+      <Value>Data Source=tcp:dbrecycle.database.windows.net,1433%3bInitial Catalog=backend.Recycle_db%3bUser Id=mohamedabotir%40dbrecycle%3bPassword=Kampo%40123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

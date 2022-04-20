@@ -1,0 +1,13 @@
+services:
+  backend.recycle:
+    build:
+      context: F:\deployVersion\Recycle\backend.Recycle
+      dockerfile: backend.Recycle/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: backendrecycle
+    ports:
+    - target: 80
+    volumes:
+    - C:\Users\H\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

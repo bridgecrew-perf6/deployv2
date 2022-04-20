@@ -1,0 +1,663 @@
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+C:\Users\Magdy\Downloads\Compressed\Recycle-main\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MailKit.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MimeKit.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+C:\Users\H\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MailKit.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+C:\Users\Magdy\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MailKit.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+C:\Users\Bakr\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MailKit.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MimeKit.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+G:\jetbrains\Grad\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MailKit.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+C:\Users\Magdy\OneDrive\Desktop\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MailKit.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+C:\Users\Magdy\Downloads\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MailKit.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MimeKit.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\H\Desktop\New folder\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.Development.json
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\appsettings.json
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.staticwebassets.runtime.json
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.exe
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.deps.json
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.runtimeconfig.json
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\backend.Recycle.pdb
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\AutoMapper.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Humanizer.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MailKit.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\MimeKit.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.AssemblyReference.cache
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.GeneratedMSBuildEditorConfig.editorconfig
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfoInputs.cache
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.AssemblyInfo.cs
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CoreCompileInputs.cache
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cs
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.MvcApplicationPartsAssemblyInfo.cache
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.build.json
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\staticwebassets.development.json
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\scopedcss\bundle\backend.Recycle.styles.css
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.csproj.CopyComplete
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\refint\backend.Recycle.dll
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.pdb
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\backend.Recycle.genruntimeconfig.cache
+F:\deployVersion\Recycle\backend.Recycle\backend.Recycle\obj\Debug\net6.0\ref\backend.Recycle.dll
